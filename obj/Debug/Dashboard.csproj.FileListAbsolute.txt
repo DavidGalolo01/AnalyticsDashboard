@@ -1,0 +1,11 @@
+C:\Users\David\source\repos\Dashboard\bin\Debug\Dashboard.exe.config
+C:\Users\David\source\repos\Dashboard\bin\Debug\Dashboard.exe
+C:\Users\David\source\repos\Dashboard\bin\Debug\Dashboard.pdb
+C:\Users\David\source\repos\Dashboard\obj\Debug\Dashboard.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\Dashboard\obj\Debug\Dashboard.csproj.SuggestedBindingRedirects.cache
+C:\Users\David\source\repos\Dashboard\obj\Debug\Dashboard.Properties.Resources.resources
+C:\Users\David\source\repos\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+C:\Users\David\source\repos\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Dashboard\obj\Debug\Dashboard.exe
+C:\Users\David\source\repos\Dashboard\obj\Debug\Dashboard.pdb
+C:\Users\David\source\repos\Dashboard\obj\Debug\Dashboard.Form1.resources
